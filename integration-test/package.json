@@ -1,0 +1,17 @@
+{
+  "name": "integration-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dockest": "^2.1.0",
+    "form-data": "^4.0.0",
+    "jest": "^27.0.6",
+    "node-fetch": "^2.6.1"
+  }
+}
